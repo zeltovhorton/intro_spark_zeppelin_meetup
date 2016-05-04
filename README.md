@@ -59,9 +59,8 @@ Open the webbrowser and go to http://sandbox:9995/#/ or the Azure HDP deployment
 
 Click: Import Notebook
 
-Give Notebook Name: Philly Crime Data Analysis
+Give Notebook Name: 
 
 And choose Add from URL :  
-https://raw.githubusercontent.com/zeltovhorton/microsoft_codecamp/master/phillyCrimeAnalysis.json
 
-
+copy and paste the RAW url of the notebook

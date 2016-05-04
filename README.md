@@ -1,11 +1,8 @@
 
-
-**Introduction to Big Data Analytics using Apache Spark on HDInsights on Azure (SaaS) and/or HDP on Azure(PaaS)** 
-
-http://www.slideshare.net/alexzeltov/introduction-to-big-data-analytics-using-apache-spark-and-zeppelin-on-hdinsights-on-azure-saas-andor-hdp-on-azurepaas
+**Hands-On Intro to Big Data Analytics using Apache Spark and Apache Zeppelin**
 
 
-This workshop will provide an introduction to Big Data Analytics using Apache Spark using the HDInsights on Azure (SaaS) and/or HDP deployment on Azure(PaaS) . There will be a short lecture that includes an introduction to Spark, the Spark components.
+This workshop will provide an introduction to Big Data Analytics using Apache Spark and Apache Zeppelin.
 
 Spark is a unified framework for big data analytics. Spark provides one integrated API for use by developers, data scientists, and analysts to perform diverse tasks that would have previously required separate processing engines such as batch analytics, stream processing and statistical modeling. Spark supports a wide range of popular languages including Python, R, Scala, SQL, and Java. Spark can read from diverse data sources and scale to thousands of nodes.
 

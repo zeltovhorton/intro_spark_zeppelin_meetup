@@ -68,12 +68,22 @@ copy and paste the RAW url of the notebook
 3) **NOTEBOOKS:**
 
 * phillyCrimeAnalysis.json - INTRO TO RDDS USING SCALA
-* IntroToSparkDataFramesWithScala.json - INTRO TO DATA FRAMES AND SPARKSQL
-* UsingSparkSQLUDFsTOCreateDateTimes.json - INTRO TO UDFs
-* PeopleJSONDemo.json - INTRO TO USING JSON AND DATAFRAMES IN SPARK
-* SparkSQLFederatedSetup.json - SETUP scripts for demonstrating SPARKSQL federated 
-* SparkSqlFederatedDemo.json - Spark
+https://raw.githubusercontent.com/zeltovhorton/intro_spark_zeppelin_meetup/master/notebooks/phillyCrimeAnalysis.json
 
+* IntroToSparkDataFramesWithScala.json - INTRO TO DATA FRAMES AND SPARKSQL
+https://raw.githubusercontent.com/zeltovhorton/intro_spark_zeppelin_meetup/master/notebooks/IntroToSparkDataFramesWithScala.json
+
+* UsingSparkSQLUDFsTOCreateDateTimes.json - INTRO TO UDFs
+https://raw.githubusercontent.com/zeltovhorton/intro_spark_zeppelin_meetup/master/notebooks/UsingSparkSQLUDFsTOCreateDateTimes.json
+
+* PeopleJSONDemo.json - INTRO TO USING JSON AND DATAFRAMES IN SPARK
+https://raw.githubusercontent.com/zeltovhorton/intro_spark_zeppelin_meetup/master/notebooks/PeopleJSONDemo.json
+
+* SparkSQLFederatedSetup.json - SETUP scripts for demonstrating SPARKSQL federated  
+ https://raw.githubusercontent.com/zeltovhorton/intro_spark_zeppelin_meetup/master/notebooks/SparkSQLFederatedSetup.json
+
+* SparkSqlFederatedDemo.json - Spark
+https://raw.githubusercontent.com/zeltovhorton/intro_spark_zeppelin_meetup/master/notebooks/SparkSqlFederatedDemo.json
 
 4) **SPARK SQL FEDERATED SETUP**:
 

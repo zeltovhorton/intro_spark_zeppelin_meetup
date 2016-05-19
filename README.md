@@ -65,7 +65,17 @@ And choose Add from URL :
 
 copy and paste the RAW url of the notebook
 
-3) **SPARK SQL FEDERATED SETUP**:
+3) **NOTEBOOKS:**
+
+* phillyCrimeAnalysis.json - INTRO TO RDDS USING SCALA
+* IntroToSparkDataFramesWithScala.json - INTRO TO DATA FRAMES AND SPARKSQL
+* UsingSparkSQLUDFsTOCreateDateTimes.json - INTRO TO UDFs
+* PeopleJSONDemo.json - INTRO TO USING JSON AND DATAFRAMES IN SPARK
+* SparkSQLFederatedSetup.json - SETUP scripts for demonstrating SPARKSQL federated 
+* SparkSqlFederatedDemo.json - Spark
+
+
+4) **SPARK SQL FEDERATED SETUP**:
 
 Zeppelin must be able to sudo and access Postgres. Run the following commands as root at the host console:
 
